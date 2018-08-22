@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+		background-color: #6598D6;
+	}
+	.notes {
+		background-color: slategrey;
+		margin: 0;	
+		width: 200px;
+		height: 20px;
+		z-index: 1;
+	}
+	.text {
+		margin-top: 0;	
+    	border-bottom-right-radius: 0.5em;
+		font-size: 200%;
+	}
+	.delButton {
+		background-color: darkred;
+    	border: none;
+    	color: white;
+    	text-align: center;
+    	display: inline-block;
+    	font-size: 16px;
+	}
+	h1{
+		height : 20px;
+		background-color: #177DD1;
+		margin: 0;
+	}
